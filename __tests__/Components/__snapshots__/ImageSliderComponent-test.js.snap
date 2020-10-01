@@ -1,0 +1,827 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test image slider component match snapshot 1`] = `
+<View>
+  <View
+    style={
+      Array [
+        Object {
+          "alignItems": "center",
+          "justifyContent": "center",
+        },
+        undefined,
+      ]
+    }
+  >
+    <RCTScrollView
+      data={
+        Array [
+          Object {
+            "author": "Danielle MacInnes",
+            "download_url": "https://picsum.photos/id/1001/5616/3744",
+            "height": 3744,
+            "id": "1001",
+            "url": "https://unsplash.com/photos/1DkWWN1dr-s",
+            "width": 5616,
+          },
+          Object {
+            "author": "NASA",
+            "download_url": "https://picsum.photos/id/1002/4312/2868",
+            "height": 2868,
+            "id": "1002",
+            "url": "https://unsplash.com/photos/6-jTZysYY_U",
+            "width": 4312,
+          },
+          Object {
+            "author": "E+N Photographies",
+            "download_url": "https://picsum.photos/id/1003/1181/1772",
+            "height": 1772,
+            "id": "1003",
+            "url": "https://unsplash.com/photos/GYumuBnTqKc",
+            "width": 1181,
+          },
+          Object {
+            "author": "Greg Rakozy",
+            "download_url": "https://picsum.photos/id/1004/5616/3744",
+            "height": 3744,
+            "id": "1004",
+            "url": "https://unsplash.com/photos/SSxIGsySh8o",
+            "width": 5616,
+          },
+          Object {
+            "author": "Matthew Wiebe",
+            "download_url": "https://picsum.photos/id/1005/5760/3840",
+            "height": 3840,
+            "id": "1005",
+            "url": "https://unsplash.com/photos/tBtuxtLvAZs",
+            "width": 5760,
+          },
+          Object {
+            "author": "Vladimir Kudinov",
+            "download_url": "https://picsum.photos/id/1006/3000/2000",
+            "height": 2000,
+            "id": "1006",
+            "url": "https://unsplash.com/photos/-wWRHIUklxM",
+            "width": 3000,
+          },
+          Object {
+            "author": "Benjamin Combs",
+            "download_url": "https://picsum.photos/id/1008/5616/3744",
+            "height": 3744,
+            "id": "1008",
+            "url": "https://unsplash.com/photos/5L4XAgMSno0",
+            "width": 5616,
+          },
+          Object {
+            "author": "Christopher Campbell",
+            "download_url": "https://picsum.photos/id/1009/5000/7502",
+            "height": 7502,
+            "id": "1009",
+            "url": "https://unsplash.com/photos/CMWRIzyMKZk",
+            "width": 5000,
+          },
+          Object {
+            "author": "Christian Bardenhorst",
+            "download_url": "https://picsum.photos/id/101/2621/1747",
+            "height": 1747,
+            "id": "1010",
+            "url": "https://unsplash.com/photos/8lMhzUjD1Wk",
+            "width": 2621,
+          },
+          Object {
+            "author": "Samantha Sophia",
+            "download_url": "https://picsum.photos/id/1010/5184/3456",
+            "height": 3456,
+            "id": "1011",
+            "url": "https://unsplash.com/photos/NaWKMlp3tVs",
+            "width": 5184,
+          },
+        ]
+      }
+      disableVirtualization={false}
+      getItem={[Function]}
+      getItemCount={[Function]}
+      horizontal={true}
+      initialNumToRender={10}
+      keyExtractor={[Function]}
+      maxToRenderPerBatch={10}
+      onContentSizeChange={[Function]}
+      onEndReachedThreshold={2}
+      onLayout={[Function]}
+      onMomentumScrollEnd={[Function]}
+      onScroll={[Function]}
+      onScrollBeginDrag={[Function]}
+      onScrollEndDrag={[Function]}
+      onViewableItemsChanged={[Function]}
+      removeClippedSubviews={false}
+      renderItem={[Function]}
+      scrollEventThrottle={50}
+      showsHorizontalScrollIndicator={false}
+      stickyHeaderIndices={Array []}
+      updateCellsBatchingPeriod={50}
+      viewabilityConfig={
+        Object {
+          "itemVisiblePercentThreshold": 75,
+          "waitForInteraction": true,
+        }
+      }
+      viewabilityConfigCallbackPairs={
+        Array [
+          Object {
+            "onViewableItemsChanged": [Function],
+            "viewabilityConfig": Object {
+              "itemVisiblePercentThreshold": 75,
+              "waitForInteraction": true,
+            },
+          },
+        ]
+      }
+      windowSize={21}
+    >
+      <View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Danielle MacInnes
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                NASA
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                E+N Photographies
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Greg Rakozy
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Matthew Wiebe
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Vladimir Kudinov
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Benjamin Combs
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Christopher Campbell
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Christian Bardenhorst
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+        <View
+          onLayout={[Function]}
+          style={
+            Array [
+              Object {
+                "flexDirection": "row",
+              },
+              null,
+            ]
+          }
+        >
+          <View
+            style={
+              Array [
+                Object {
+                  "alignItems": "center",
+                  "justifyContent": "center",
+                },
+                undefined,
+              ]
+            }
+          >
+            <View>
+              <Text>
+                Samantha Sophia
+              </Text>
+            </View>
+            <Image
+              source={
+                Object {
+                  "uri": undefined,
+                }
+              }
+            />
+          </View>
+        </View>
+      </View>
+    </RCTScrollView>
+  </View>
+  <View
+    style={
+      Object {
+        "flexDirection": "row",
+        "height": 30,
+        "justifyContent": "center",
+        "width": "100%",
+      }
+    }
+  >
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Solid",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "900",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+    <Text
+      allowFontScaling={false}
+      style={
+        Array [
+          Object {
+            "color": undefined,
+            "fontSize": 12,
+          },
+          Array [
+            Object {
+              "alignSelf": "center",
+              "color": "#000000",
+              "fontSize": 15,
+              "paddingEnd": 2,
+              "paddingStart": 2,
+            },
+            undefined,
+          ],
+          Object {
+            "fontFamily": "FontAwesome5Free-Regular",
+            "fontStyle": "normal",
+            "fontWeight": "normal",
+          },
+          Object {
+            "fontWeight": "400",
+          },
+        ]
+      }
+    >
+      
+    </Text>
+  </View>
+</View>
+`;

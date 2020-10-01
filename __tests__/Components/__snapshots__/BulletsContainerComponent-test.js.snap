@@ -1,0 +1,316 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`test bullet container component match snapshot 1`] = `
+Array [
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+  <Text
+    allowFontScaling={false}
+    style={
+      Array [
+        Object {
+          "color": undefined,
+          "fontSize": 12,
+        },
+        Array [
+          Object {
+            "alignSelf": "center",
+            "color": "#000000",
+            "fontSize": 15,
+            "paddingEnd": 2,
+            "paddingStart": 2,
+          },
+          undefined,
+        ],
+        Object {
+          "fontFamily": "FontAwesome5Free-Regular",
+          "fontStyle": "normal",
+          "fontWeight": "normal",
+        },
+        Object {
+          "fontWeight": "400",
+        },
+      ]
+    }
+  >
+    
+  </Text>,
+]
+`;
